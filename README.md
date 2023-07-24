@@ -13,7 +13,7 @@ Beego is a popular web framework written in Go.
 
 ## Features
 
-* Go 1.14
+* Go 1.16
 * MariaDB 10.4
 * Automatic TLS certificates
 * Git module-based build
