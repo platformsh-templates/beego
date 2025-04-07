@@ -2,7 +2,7 @@ module github.com/platformsh/template-beego
 
 require (
 	github.com/astaxie/beego v1.12.3
-	github.com/go-sql-driver/mysql v1.9.1
+	github.com/go-sql-driver/mysql v1.9.2
 	github.com/platformsh/config-reader-go/v2 v2.3.1
 	github.com/smartystreets/goconvey v1.7.2
 )
